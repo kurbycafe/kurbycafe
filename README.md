@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurbycafe
 - 👀 I’m interested in CPP and Python
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on VW 
 - 📫 How to reach me po04304a@naver.com
 
 <!---
